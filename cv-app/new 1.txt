@@ -1,0 +1,29 @@
+txt('**Content Creator**, [Data Professor YouTube Channel](https://youtube.com/dataprofessor/)',
+'2019-Present')
+st.markdown('''
+- `100,000+` subscribers on YouTube
+- Created `261` educational videos on data science, machine learning and bioinformatics as well as hosted several podcast episodes with data scientists.
+- Created `3` sponsored videos for Notion, Gradio and Classpert.
+''')
+
+txt('**Content Creator**, [Coding Professor YouTube Channel](https://youtube.com/codingprofessor/)',
+'2019-Present')
+st.markdown('''
+- `3,200+` subscribers on YouTube
+- Created `38` educational videos on Python and R programming.
+''')
+
+txt('**Technical Writer**, [Data Professor Blog](https://data-professor.medium.com/) on Medium.com',
+'2019-Present')
+st.markdown('''
+- `4,100+` subscribers on Medium
+- Written `68` technical blogs on data science, machine learning and bioinformatics.
+''')
+
+txt('**Co-Chair**, International Conference on Pharmaceutical Bioinformatics at Pattaya, Thailand',
+'2016')
+st.markdown('''
+- Oversee all aspects of the conference preparations from conception to launch. This include inviting keynote and plenary speakers, create advertisement flyers, create abstract book, etc.
+- Conference attracted `200+` participants from `40+` countries from university and industry sector.
+- Chaired keynote session, technical workshop and some of the parallel sessions.
+''')
