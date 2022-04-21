@@ -11,7 +11,7 @@ st.write('''
 ##### *Curriculum Vitae* 
 ''')
 
-image = Image.open('dp2.png')
+image = Image.open('cv-app/resume-app-main/dp2.png')
 st.image(image, width=200)
 
 st.markdown('## Summary', unsafe_allow_html=True)
