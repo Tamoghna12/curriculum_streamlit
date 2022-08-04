@@ -124,8 +124,13 @@ st.markdown('''
 st.markdown('''
 ## Work Experience
 ''')
-
-txt('**Content Developer (English) for GCSE Physics:**, StudySmarter.de, Munich, Germany', 'Feb 2022-Present')
+txt('**Teacher and Evaluator:**, *Oxford Royale Academy (ORA):* , Oxford University,UK ', 'Aug 2022')
+st.markdown('''
+- **Taught** 10+ pre-university students a course titled “Designing Tomorrow: Engineering, Robotics & Technology”. Responsibilities included content delivery and coursework evaluation with feedbacks
+- **Guided** students with mock interview session for to enhance communication skills
+- Familiarized the students in undergraduate college admission process
+''')
+txt('**Content Developer (English) for GCSE Physics:**, StudySmarter.de, Munich, Germany', 'Feb 2022-July 2022')
 st.markdown('''
 - **Developed** curated content for students to facilitate easy understanding of critical concepts (`2` per week)
 - **Performed** SEO analysis on the platform for better reach.
@@ -138,7 +143,7 @@ txt('**Course organizer & Tutor in-Charge:**, Stoodnt.com, Kolkata, India',
 st.markdown('''
 - **Developed**, planned the curriculum and taught a course on the application of data science concepts in biotechnology using Python.
 - **Counselled** high school and college level students in analytical skills and soft skills' enhancement.
-- **Taught** `20 +` students and received a variety of constructive feedbacks from students.
+- **Taught** `40 +` students and received a variety of constructive feedbacks from students.
 - **Developed** study materials for students to practice.
 - **Conceptualized** and published a content on carrier transition from biology to data science.
 - **Worked remotely** for the entire period
@@ -160,7 +165,7 @@ st.markdown('''
 ''')
 txt('**Teacher and Evaluator:**, *Oxford Royale Academy (ORA):* , Cambridge University,UK ', 'Jul 2018')
 st.markdown('''
-- **Taught** pre-university students a course titled “Engineering Preparations”. Responsibilities included content delivery andcoursework evaluation with feedbacks
+- **Taught** 10+ pre-university students a course titled “Engineering Preparations”. Responsibilities included content delivery andcoursework evaluation with feedbacks
 - **Guided** students with mock interview session for to enhance communication skills
 - Familiarized the students in undergraduate college admission process
 ''')
