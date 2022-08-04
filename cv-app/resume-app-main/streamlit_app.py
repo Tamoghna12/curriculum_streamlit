@@ -91,35 +91,6 @@ def txt4(a, b, c):
     with col3:
         st.markdown(c)
 
-
-#####################
-st.markdown('''
-## Education
-''')
-
-txt('**Master of Science(M.Sc)** (Data Science),  *UEA (University of East Anglia)*, UK',
-    '2021-2022')
-st.markdown('''
-- Modules : Statistics, Data Mining, Information Visualization, Human Computer interaction, Research Techniques, Artificial Intelligence
-- Grade: `Merit expected`
-- **Research thesis entitled:** `Making shotgun metagenomics accessible, which aims to reconstruct all the genomes present in an environmental sample, such as soil or water`.
-''')
-txt('**Master of Science(M.Sc)** (Biochemical Engineering),  *UCL (University College London)*, UK',
-    '2018-2019')
-st.markdown('''
-- Modules: Vaccine bioprocessing, Bioprocess Systems Engineering, Industrial Synthetic Biology, Sustainable industrial Bioprocesses and Biorefineries
-- Grade: `Merit`
-- **Research thesis entitled:** `Towards an engineered E. coli cell capable of inducible filamentation to improve primary recovery of biological products.`.
-''')
-
-txt('**Bachelors of Technology(B.Tech)** (Biotechnology:), *VIT (Vellore Institute of Technology)*, India',
-    '2014-2018')
-st.markdown('''
-- Major Modules: Biochemistry, Cell Biology & Genetics, Bioinformatics, Systems Biology, Genomics & Proteomics, Industrial biotechnology, Pharmaceutical biotechnology
-- CGPA: `3.31/4.00` `(8.27/10.0)`
-- **Bachelor Thesis:** Effects of P25 TiO2 nanoparticles on Moina macrocopa by feed-based exposure under different conditions (UV-A and Dark)
-''')
-
 #####################
 st.markdown('''
 ## Work Experience
@@ -186,6 +157,33 @@ st.markdown('''
 - Microbiological analysis of water samples from different production blocks.
 ''')
 
+#####################
+st.markdown('''
+## Education
+''')
+
+txt('**Master of Science(M.Sc)** (Data Science),  *UEA (University of East Anglia)*, UK',
+    '2021-2022')
+st.markdown('''
+- Modules : Statistics, Data Mining, Information Visualization, Human Computer interaction, Research Techniques, Artificial Intelligence
+- Grade: `Merit expected`
+- **Research thesis entitled:** `Making shotgun metagenomics accessible, which aims to reconstruct all the genomes present in an environmental sample, such as soil or water`.
+''')
+txt('**Master of Science(M.Sc)** (Biochemical Engineering),  *UCL (University College London)*, UK',
+    '2018-2019')
+st.markdown('''
+- Modules: Vaccine bioprocessing, Bioprocess Systems Engineering, Industrial Synthetic Biology, Sustainable industrial Bioprocesses and Biorefineries
+- Grade: `Merit`
+- **Research thesis entitled:** `Towards an engineered E. coli cell capable of inducible filamentation to improve primary recovery of biological products.`.
+''')
+
+txt('**Bachelors of Technology(B.Tech)** (Biotechnology:), *VIT (Vellore Institute of Technology)*, India',
+    '2014-2018')
+st.markdown('''
+- Major Modules: Biochemistry, Cell Biology & Genetics, Bioinformatics, Systems Biology, Genomics & Proteomics, Industrial biotechnology, Pharmaceutical biotechnology
+- CGPA: `3.31/4.00` `(8.27/10.0)`
+- **Bachelor Thesis:** Effects of P25 TiO2 nanoparticles on Moina macrocopa by feed-based exposure under different conditions (UV-A and Dark)
+''')
 #####################
 st.markdown('''
 ## Honours & Awards
