@@ -149,7 +149,7 @@ st.markdown('''
 - **Worked remotely** for the entire period
 ''')
 txt('**Scientific Content Editor:**, *Klarity. Health:* , London ,UK',
-    'Feb 2022 - Present')
+    'Feb 2022 - April 2022')
 st.markdown('''
 - **Edited** scientific contents on health and wellbeing (`10 +`)
 - **Analysed** the content for grammatical and scientific errors
@@ -168,6 +168,9 @@ st.markdown('''
 - **Taught** 10+ pre-university students a course titled “Engineering Preparations”. Responsibilities included content delivery andcoursework evaluation with feedbacks
 - **Guided** students with mock interview session for to enhance communication skills
 - Familiarized the students in undergraduate college admission process
+''')
+st.markdown('''
+## Internships
 ''')
 txt('**Research Internship:**, *Indian Institute of Science Education and Research, Kolkata (IISER-K):* , Kolkata, India', 'Jun - Jul 2017')
 st.markdown('''
