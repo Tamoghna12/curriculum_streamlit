@@ -139,7 +139,7 @@ st.markdown('''
 ''')
 
 txt('**Course organizer & Tutor in-Charge:**, Stoodnt.com, Kolkata, India',
-    'May 2021-Aug 2021')
+    'May 2021-Freelance')
 st.markdown('''
 - **Developed**, planned the curriculum and taught a course on the application of data science concepts in biotechnology using Python.
 - **Counselled** high school and college level students in analytical skills and soft skills' enhancement.
